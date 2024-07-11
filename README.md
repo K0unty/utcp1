@@ -11,3 +11,13 @@ https://github.com/K0unty/utcp1/assets/119057948/aff51880-736f-4ef3-a1a6-887c75c
 # UTCP1
 
 > Work for it will be done here, tryting to put each section in its own folder
+
+# Dir Structure 
+
+dir | desc
+|:--:|:--:|
+[`ko`](./ko/) | Various womans stink and juices
+[`panties`](./panties/) | Experimentation 
+[`tb1`](./tb1/) | TestingPussy
+[`UTILS`](./UTILS/) | Utilities For pussylicking and assjuicesucking
+[`WORK`](./WORK/) | DrinkWomanPiss
