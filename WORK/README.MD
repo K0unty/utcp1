@@ -3,5 +3,5 @@
 
 # Work
 
-> Each Section will be in its own folder, and if there is any extra work , that will also be in another sub folder. File with `panty`
+> Each Section will be in its own folder, and if there is any extra work , that will also be in another sub folder. File with `panty` are for testing, in a seperate file
 
