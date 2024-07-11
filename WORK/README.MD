@@ -1,5 +1,5 @@
 
-<img src="https://i.ibb.co/CvDHmRq/17906380.webp" style="transform: rotate(45deg);">
+<img src="https://i.ibb.co/CvDHmRq/17906380.webp" style="transform: rotate(45deg)" align="center">
 
 # Work
 
